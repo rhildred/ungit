@@ -34,3 +34,4 @@ report/
 
 /components/**/*.css
 /components/**/*.bundle.js
+cdkCreds.txt
